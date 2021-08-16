@@ -1,0 +1,2 @@
+This is simple document .
+checking git prac
